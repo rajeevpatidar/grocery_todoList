@@ -1,0 +1,20 @@
+.grocery-item{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 20px;
+    align-items: center;
+}
+.title{
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-style: oblique;
+    /* border: 2px solid red; */
+    width: 400px;
+}
+.btn-box{
+    /* border: 2px  solid red; */
+    width: 100px;
+    display: flex;
+    justify-content: space-evenly;
+}
